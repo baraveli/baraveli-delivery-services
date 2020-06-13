@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Aapoint Hardware",
+        "number": 6528645,
+        "cash": true,
+        "transfer": false
+    },
+
+    {
+        "name": "Farireethi 1 Hardware",
+        "number": 7788697,
+        "cash": false,
+        "transfer": true
+    },
+
+    {
+        "name": "Goldway",
+        "number": 7739725,
+        "cash": true,
+        "transfer": true
+    }
+]
