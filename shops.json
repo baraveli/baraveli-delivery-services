@@ -1,21 +1,21 @@
 [
     {
-        "name": "Aapoint Hardware",
-        "number": 6528645,
+        "name": "Pizza Buona",
+        "number": 3009779,
         "cash": true,
         "transfer": false
     },
 
     {
-        "name": "Farireethi 1 Hardware",
-        "number": 7788697,
+        "name": "Levo",
+        "number": 3355811,
         "cash": false,
         "transfer": true
     },
 
     {
-        "name": "Goldway",
-        "number": 7739725,
+        "name": "Ihusaan Fihaara",
+        "number": 3315322,
         "cash": true,
         "transfer": true
     }
