@@ -1,10 +1,15 @@
 # baraveli-delivery-services
 
+![screenshot](screenshot.PNG)
+
 Your Local Delivery Service Listings.
 
+### Built With
 
-Built with Taillwindcss and AlpineJS.
+- Tailwind
+- AlpineJS
 
+Project by [Jinas](https://github.com/jinas123)
 
 ### Usage
 
