@@ -9,8 +9,10 @@ Your Local Delivery Service Listings.
 - Tailwind
 - AlpineJS
 
-Project by [Jinas](https://github.com/jinas123)
+Project by [Jinas](https://github.com/jinas123)s
 
 ### Usage
 
 Edit the shops.json file to your needs
+
+[Demo](https://baraveli-delivery.netlify.app/)
