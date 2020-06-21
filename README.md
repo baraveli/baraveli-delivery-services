@@ -9,7 +9,7 @@ Your Local Delivery Service Listings.
 - Tailwind
 - AlpineJS
 
-Project by [Jinas](https://github.com/jinas123)s
+Project by [Jinas](https://github.com/jinas123)
 
 ### Usage
 
